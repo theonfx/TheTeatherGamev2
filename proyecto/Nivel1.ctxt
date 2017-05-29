@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Nivel1
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Nivel1\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=puntaje
+comment1.target=Nivel1(int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Nivel1.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ resetTimer()
+comment3.params=
+comment3.target=void\ muestraInterfaz()
+comment4.params=
+comment4.target=void\ iniciaPelota()
+comment5.params=
+comment5.target=void\ validaTecla()
+comment6.params=
+comment6.target=void\ validaBola()
+comment7.params=
+comment7.target=void\ validaCaptura()
+comment8.params=
+comment8.target=void\ MuestraIndicaciones()
+comment9.params=
+comment9.target=void\ act()
+numComments=10

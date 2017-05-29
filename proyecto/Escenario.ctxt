@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Escenario
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Escenario\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=nivel\ score
+comment1.target=Escenario(int,\ int)
+comment10.params=position
+comment10.target=void\ paint(int)
+comment2.params=
+comment2.target=void\ resetTimer()
+comment3.params=
+comment3.target=void\ muestraInterfaz()
+comment4.params=
+comment4.target=void\ iniciaParamJugador()
+comment5.params=
+comment5.target=void\ act()
+comment6.params=
+comment6.target=void\ camina()
+comment7.params=
+comment7.target=void\ MuestraIndicaciones()
+comment8.params=
+comment8.target=void\ validaTecla()
+comment9.params=
+comment9.target=void\ siguienteNivel()
+numComments=11
