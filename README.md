@@ -1,3 +1,5 @@
+![GitHub Logo](https://raw.githubusercontent.com/theonfx/TheTeatherGamev2/master/proyecto/resources/logo.png)
+
 ### Objetivo del Curso
 
 Aplicar los conocimientos obtenidos en la materia de programación orientada a objetos
